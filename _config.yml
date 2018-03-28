@@ -1,0 +1,42 @@
+# Site settings
+name: Vivian's Blog
+email: work_man2012@126.com
+author: Vivian Sun
+url: http://vivianking6855.github.io
+resume_site: http://vivianking6855.github.io/2018/03/08/about/
+github: https://github.com/vivianking6855/
+baseurl: ''
+description: 学无止境
+#meta_description: 三人行必有我师
+#motto: 不迁怒，不贰过
+#banner: 不迁怒，不贰过
+
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+
+github_username: vivianking6855
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : vivianking68
+    #disqus :
+    #    short_name : vivianking68
+    #facebook : 
+    #   appid : vivian.sun.169405
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
+
+# Jekyll themes http://jekyllthemes.org/page3/
+# LessOrMore Theme https://github.com/luoyan35714/LessOrMore
