@@ -1,15 +1,12 @@
 # Site settings
-name: Vivian's Blog
-email: work_man2012@126.com
-author: Vivian Sun
-url: http://vivianking6855.github.io
-resume_site: http://vivianking6855.github.io/2018/03/08/about/
-github: https://github.com/vivianking6855/
+name: Samp's Blog
+email: 31461013@qq.com
+author: Samp
+url: http://sampmiao.github.io
+resume_site: http://sampmiao.github.io/
+github: https://github.com/sampmiao
 baseurl: ''
-description: 学无止境
-#meta_description: 三人行必有我师
-#motto: 不迁怒，不贰过
-#banner: 不迁怒，不贰过
+
 
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -19,7 +16,7 @@ paginate: 10
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 
-github_username: vivianking6855
+github_username: sampmiao
 
 # Build settings
 markdown: kramdown
@@ -29,11 +26,11 @@ FB:
   comments :
     provider : duoshuo
     duoshuo:
-        short_name : vivianking68
+        short_name : sampmiao
     #disqus :
-    #    short_name : vivianking68
+    #    short_name : sampmiao
     #facebook : 
-    #   appid : vivian.sun.169405
+    #   appid : sampmiao
     #   num_posts: 5
     #   width: 580
     #   colorscheme: light
